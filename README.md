@@ -21,7 +21,6 @@ This repository contains code and resources for analyzing and visualizing electi
 
 ## How to Run the Code
 
-### 1. Run on Google Colab
 To simplify execution, a Google Colab notebook is available, allowing you to run the code on the cloud without setting up a local environment. Click the link below to open the notebook:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akamper/NYVRA-Mapping/blob/main/NYVRA_Mapping.ipynb)

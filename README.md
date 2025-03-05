@@ -52,12 +52,5 @@ To run the codebase locally, follow these steps:
    python src/analysis.py
    ```
 
-## Contributions
-Contributions are welcome! Please open an issue or submit a pull request for any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 **By examining election accessibility through the lens of transportation, residential proximity, and language diversity, this project seeks to support the goals of the NYVRA in ensuring fair and equal access to the voting process for all New Yorkers.**

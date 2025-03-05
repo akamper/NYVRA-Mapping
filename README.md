@@ -4,6 +4,7 @@
 
 This repository contains code and resources for analyzing and visualizing election data in New York City, with a focus on accessibility and equity as mandated by the NYVRA. The analysis aims to identify potential barriers to voting by examining the proximity of poll sites to public transportation and residential areas, and considering language diversity across neighborhoods.
 
+By examining election accessibility through the lens of transportation, residential proximity, and language diversity, this project seeks to support the goals of the NYVRA in ensuring fair and equal access to the voting process for all New Yorkers
 ## Features
 
 - **Data Sources:** 
@@ -26,7 +27,3 @@ To simplify execution, a Google Colab notebook is available, allowing you to run
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akamper/NYVRA-Mapping/blob/main/NYVRA_Mapping.ipynb)
 
 
-##
-
-
-**By examining election accessibility through the lens of transportation, residential proximity, and language diversity, this project seeks to support the goals of the NYVRA in ensuring fair and equal access to the voting process for all New Yorkers.**

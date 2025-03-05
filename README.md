@@ -1,6 +1,3 @@
-Here's the updated README.md content without the Colab link:
-
----
 
 # NYVRA-Mapping
 

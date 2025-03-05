@@ -28,4 +28,5 @@ To simplify execution, a Google Colab notebook is available, allowing you to run
 
 
 
+
 **By examining election accessibility through the lens of transportation, residential proximity, and language diversity, this project seeks to support the goals of the NYVRA in ensuring fair and equal access to the voting process for all New Yorkers.**

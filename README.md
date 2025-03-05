@@ -26,31 +26,7 @@ To simplify execution, a Google Colab notebook is available, allowing you to run
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akamper/NYVRA-Mapping/blob/main/NYVRA_Mapping.ipynb)
 
-### 2. Run Locally
-To run the codebase locally, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/akamper/NYVRA-Mapping.git
-   cd NYVRA-Mapping
-   ```
-
-2. **Create and activate a virtual environment (optional but recommended):**
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install required Python packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the scripts:**
-   Execute the Python scripts in the `src` directory to generate analyses and visualizations.
-   ```bash
-   python src/analysis.py
-   ```
 
 
 **By examining election accessibility through the lens of transportation, residential proximity, and language diversity, this project seeks to support the goals of the NYVRA in ensuring fair and equal access to the voting process for all New Yorkers.**
